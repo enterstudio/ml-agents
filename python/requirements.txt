@@ -6,3 +6,5 @@ jupyter
 mock>=2.0.0
 pytest>=3.2.2
 docopt
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
